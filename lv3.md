@@ -1,3 +1,1 @@
-![image](https://github.com/re-na-ta/overthewire_bandit/assets/83365217/cf639d45-6539-4bfb-b330-64c22d70a627)
-
-aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+![image](https://github.com/re-na-ta/overthewire_bandit/assets/83365217/51aeb649-d1cb-48ac-bea4-43eee24759d1)
